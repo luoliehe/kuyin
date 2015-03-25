@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusciApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_music">SearchMusic</string>
+    <string name="btn_search">搜索</string>
+    <string name="txt_search_name">喜欢你</string>
+
+</resources>
